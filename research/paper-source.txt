@@ -1,0 +1,54 @@
+以下是與無線網路,無線感測網路相關的Conference或Journal
+
+
+ Conference (ACM)
+
+      SIGCOMM
+
+      MobiCom
+	http://www.sigmobile.org/mobicom/
+      MobiHoc
+	http://www.sigmobile.org/mobihoc/
+      VANET
+	
+	ipcv
+
+    Conference (IEEE)
+
+      INFOCOM
+
+      ICC
+
+      Globecom
+
+      WCNC
+
+      VTC
+
+	CNSR
+	ICDCS
+
+      SECON
+
+      PIMRC
+
+    Journal
+
+      IEEE Network Magazine
+
+      IEEE Wireless Communications Magazine
+
+      IEEE/ACM Transactions on Networking
+
+      IEEE Journal of Selected Areas in communications
+
+      IEEE Transactions on Wireless Communications
+
+      IEEE Transactions on Communications
+
+      IEEE Transactions on Mobile Computing
+
+      IEEE Transactions on Vehicular Technology
+
+      Elsevier Ad Hoc Networks
+

@@ -1,0 +1,6 @@
+﻿Wei-Che Chien, H.-H. C., Chi-Yuan Chen, Han-Chieh Chao, Timothy K. Shih (2015). "An Efficient Charger Planning Mechanism of WRSN Using Simulated Annealing Algorithm." SMC 2015: 2585-2590.
+	
+Wei-Che Chien, H.-H. C., Han-Chieh Chao, Timothy K. Shih (2016). "Enhanced SA-based charging algorithm for WRSN." IWCMC 2016: 1012-1017.
+	
+Wei-Jhe Jian, H.-H. C., Chi-Yuan Chen, Han-Chieh Chao, Timothy K. Shih (2015). "Movable-charger-based planning scheme in wireless rechargeable sensor networks." INFOCOM Workshops 2015: 144-148.
+	
